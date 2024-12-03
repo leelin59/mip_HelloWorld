@@ -3,6 +3,7 @@
       ["HelloWorld/mip_HelloWorld.py", "github:leelin59/mip_HelloWorld/mip_HelloWorld.py"],
       ["mip_HelloWorld.py", "github:leelin59/mip_HelloWorld/mip_HelloWorld.py"],
       ["中文函式.py", "github:leelin59/mip_HelloWorld/func.py"]
+      ["../中文函式.py", "github:leelin59/mip_HelloWorld/func.py"]
     ],
     "deps": [
     ],
