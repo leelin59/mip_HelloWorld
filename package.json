@@ -1,6 +1,6 @@
 {
     "urls": [
-      ["HelloWorld/mip_HelloWorld.py", "github:leelin59/mip_HelloWorld/mip_HelloWorld.py"]
+      ["h/mip_HelloWorld.py", "github:leelin59/mip_HelloWorld/mip_HelloWorld.py"]
     ],
     "deps": [
     ],
