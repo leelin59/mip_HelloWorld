@@ -1,7 +1,7 @@
 {
     "urls": [
       ["HelloWorld/mip_HelloWorld.py", "github:leelin59/mip_HelloWorld/mip_HelloWorld.py"]
-      ["中文函式練習/中文函式練習.py", "github:leelin59/mip_HelloWorld/中文函式練習.py"]
+      ["中文函式練習/Func.py", "github:leelin59/mip_HelloWorld/中文函式練習.py"]
     ],
     "deps": [
     ],
