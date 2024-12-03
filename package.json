@@ -1,0 +1,8 @@
+{
+    "urls": [
+      ["lib/mip_HelloWorld.py", "https://raw.githubusercontent.com/leelin59/mip_HelloWorld/refs/heads/master/mip_HelloWorld.py"]
+    ],
+    "deps": [
+    ],
+    "version": "0.1"
+}
